@@ -1,7 +1,5 @@
 # OS Lab Mini Project Details
 
-======
-
 ## Hey there, this is your Details.md file. Send me Pull request, add your project details (if there is any change), then Push it.
 
 | S. No. |                    Group Members                     |                 Project Detail                  |
@@ -18,8 +16,7 @@
 |   09   |        Faiz Sohail, Abdul Manan and Ali Imam         |                 Not entered yet                 |
 |   10   |           Bazila, Manal and Sarmad Ashfaq            |                 Not entered yet                 |
 
-====
-\*Disclaimer: Please do not amend anyone else’s details. Your every single step is recorded in “commits”.
+Disclaimer: Please do not amend anyone else’s details. Your every single step is recorded in “commits”.
 
 For instance, I would say,
 
