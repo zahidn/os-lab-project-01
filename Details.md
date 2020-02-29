@@ -15,6 +15,7 @@
 |   08   |   Habib ur Rehman, Arsalan Anwar and Shahab Mughal   |                 Not entered yet                 |
 |   09   |        Faiz Sohail, Abdul Manan and Ali Imam         |                 Not entered yet                 |
 |   10   |           Bazila, Manal and Sarmad Ashfaq            |                 Not entered yet                 |
+|   11   |                     Saad Iqbal                       |      Load Balancer/Proxy Server with nginx      |
 
 Disclaimer: Please do not amend anyone else’s details. Your every single step is recorded in “commits”.
 
