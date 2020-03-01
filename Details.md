@@ -7,7 +7,7 @@
 |   0    |                   Sadain & BSE-4A                    | [Struts](https://github.com/sadainiqrar/struts) |
 |   01   |              Sajeel, Shaheer, & Souban               |              NodeJS App via Docker              |
 |   02   | Qurat-ul-Ain Ayesha, Abdullah Malik & Huzaifa Arshad |                 Not entered yet                 |
-|   03   |        Hammad Ali, Usama Khalid & Zahid Ullah        |                 Not entered yet                 |
+|   03   |        Hammad Ali, Usama Khalid & Zahid Ullah        |                CI/CD with gitlab                |
 |   04   |      Duaa e Fatima , Sahar Khan, & Asfa Abbasi       |                 Not entered yet                 |
 |   05   |            Mahnoor,Abiha and Hassan Khan             |                 Not entered yet                 |
 |   06   |          Anas, Abdul Rauf and Hassan Toori           |                 Not entered yet                 |
