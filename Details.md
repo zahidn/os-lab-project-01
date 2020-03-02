@@ -10,13 +10,13 @@
 |   03   |        Hammad Ali, Usama Khalid & Zahid Ullah        |                CI/CD with gitlab                |
 |   04   |      Duaa e Fatima , Sahar Khan, & Asfa Abbasi       |                 Not entered yet                 |
 |   05   |                    Mahnoor,Abiha                     |           Running apps with virtualenv          |
-|   06   |          Anas, Abdul Rauf and Hassan Toori           |         Compose docker containerization             |
+|   06   |          Anas, Abdul Rauf and Hassan Toori           |         Compose docker containerization         |
 |   07   |        Obaid Awan, Iqrar Ijaz and Umair Tahir        |                 Not entered yet                 |
-|   08   |   Habib ur Rehman, Arsalan Anwar and Shahab Mughal   |                 Not entered yet                 |
+|   08   |   Habib ur Rehman, Arsalan Anwar and Shahab Mughal   |         Composing Docker Containerization       |
 |   09   |        Faiz Sohail, Abdul Manan and Ali Imam         |                 Not entered yet                 |
 |   10   |           Bazila, Manal and Sarmad Ashfaq            |                 Not entered yet                 |
-|   11   |                     Saad Iqbal                       |      Load Balancer/Proxy Server with nginx      |
-
+|   11   |                     Saad Iqbal                       |         Load Balancer/Proxy Server with nginx   |
+|   12   |              Tayyab Shabbir, Hamza Asif              |         Web apps Containerization               |
 Disclaimer: Please do not amend anyone else’s details. Your every single step is recorded in “commits”.
 
 For instance, I would say,
