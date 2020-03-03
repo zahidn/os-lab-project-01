@@ -10,7 +10,7 @@
 |   03   |        Hammad Ali, Usama Khalid & Zahid Ullah        |                CI/CD with gitlab                |
 |   04   |      Duaa e Fatima , Sahar Khan, & Asfa Abbasi       |                 Not entered yet                 |
 |   05   |                    Mahnoor,Abiha                     |           Running apps with virtualenv          |
-|   06   |          Anas, Abdul Rauf and Hassan Toori           |         Compose docker containerization         |
+|   06   |          Anas, Abdul Rauf and Hassan Toori           |    load balancer/proxy server with Nginx        |
 |   07   |        Obaid Awan, Iqrar Ijaz and Umair Tahir        |                 Not entered yet                 |
 |   08   |   Habib ur Rehman, Arsalan Anwar and Shahab Mughal   |         Composing Docker Containerization       |
 |   09   |        Faiz Sohail, Abdul Manan and Ali Imam         |                 Not entered yet                 |
