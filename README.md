@@ -5,7 +5,7 @@ Hey there, this is your Details.md file. Send me Pull request, add your project 
 | S. No. |                    Group Members                     |                             Project Detail                             |
 | ------ | :--------------------------------------------------: | :--------------------------------------------------------------------: |
 | 0      |                   Sadain & BSE-4A                    |            [Struts](https://github.com/sadainiqrar/struts)             |
-| 01     |              Sajeel, Shaheer, & Souban               | [NodeJS App via Docker](git@github.com:pyBae-py/os-lab-project-01.git) |
+| 01     |              Sajeel, Shaheer, & Souban               | [NodeJS App via Docker](https://github.com/pyBae-py/oslab-project.git) |
 | 02     | Qurat-ul-Ain Ayesha, Abdullah Malik & Huzaifa Arshad |                            Not entered yet                             |
 | 03     |        Hammad Ali, Usama Khalid & Zahid Ullah        |                           CI/CD with gitlab                            |
 | 04     |      Duaa e Fatima , Sahar Khan, & Asfa Abbasi       |                            Not entered yet                             |
