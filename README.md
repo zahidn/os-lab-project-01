@@ -12,7 +12,7 @@ Hey there, this is your Details.md file. Send me Pull request, add your project 
 | 05     |                    Mahnoor,Abiha                     |                      Running apps with virtualenv                      |
 | 06     |          Anas, Abdul Rauf and Hassan Toori           |                 load balancer/proxy server with Nginx                  |
 | 07     |        Obaid Awan, Iqrar Ijaz and Umair Tahir        |                     install a package from source                      |
-| 08     |   Habib ur Rehman, Arsalan Anwar and Shahab Mughal   |                   Composing Docker Containerization                    |
+| 08     |   Habib ur Rehman, Arsalan Anwar and Shahab Mughal   | [Image Containerization] (https://github.com/arslan919/OS-Lab-Project) |
 | 09     |        Faiz Sohail, Abdul Manan and Ali Imam         |                            Not entered yet                             |
 | 10     |           Bazila, Manal and Sarmad Ashfaq            |                            Not entered yet                             |
 | 11     |                      Saad Iqbal                      |                 Load Balancer/Proxy Server with nginx                  |
