@@ -14,7 +14,7 @@ Hey there, this is your Details.md file. Send me Pull request, add your project 
 | 07     |        Obaid Awan, Iqrar Ijaz and Umair Tahir        |                     install a package from source                      |
 | 08     |   Arslan Anwar, Habib ur Rehman and Shahab Mughal    | [Image Containerization](https://github.com/arslan919/OS-Lab-Project)  |
 | 09     |        Faiz Sohail, Abdul Manan and Ali Imam         |                            Not entered yet                             |
-| 10     |           Bazila, Manal and Qurat-ul-Ain Aisha       |                        Writing a custom shell                          |
+| 10     |           Bazila, Manal and Qurat-ul-Ain Aisha       |                 Network Monitoring with Shellscripting                         |
 | 11     |                Sarmad Ashfaq Choudary                | [Web app containerization](https://github.com/78sarmad/docker-web-app) |
 | 12     |                      Saad Iqbal                      |                 Load Balancer/Proxy Server with nginx                  |
 | 13     |              Tayyab Shabbir, Hamza Asif              |                       Web apps Containerization                        |
