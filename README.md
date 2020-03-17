@@ -6,7 +6,7 @@ Hey there, this is your Details.md file. Send me Pull request, add your project 
 | ------ | :--------------------------------------------------: | :--------------------------------------------------------------------: |
 | 0      |                   Sadain & BSE-4A                    |            [Struts](https://github.com/sadainiqrar/struts)             |
 | 01     |              Sajeel, Shaheer, & Souban               | [NodeJS App via Docker](https://github.com/pyBae-py/oslab-project.git) |
-| 02     |           Abdullah Malik & Huzaifa Arshad            |                            Not entered yet                             |
+| 02     |     Abdullah Malik, Saad Iqbal & Huzaifa Arshad      |                     Install a package from source                            |
 | 03     |        Hammad Ali, Usama Khalid & Zahid Ullah        | [CI/CD with gitlab](https://github.com/usamakhalidxo0/ci-cd)           | 
 | 04     |      Duaa e Fatima , Sahar Khan, & Asfa Abbasi       |                            Not entered yet                             |
 | 05     |                    Mahnoor,Abiha                     |                      Running apps with virtualenv                      |
@@ -16,8 +16,7 @@ Hey there, this is your Details.md file. Send me Pull request, add your project 
 | 09     |        Faiz Sohail, Abdul Manan and Ali Imam         |                            Not entered yet                             |
 | 10     |           Bazila, Manal and Qurat-ul-Ain Aisha       |                 Network Monitoring with Shellscripting                         |
 | 11     |                Sarmad Ashfaq Choudary                | [Web app containerization](https://github.com/78sarmad/docker-web-app) |
-| 12     |                      Saad Iqbal                      |                 Load Balancer/Proxy Server with nginx                  |
-| 13     |              Tayyab Shabbir, Hamza Asif              |                       Web apps Containerization                        |
+| | 12     |              Tayyab Shabbir, Hamza Asif              |                       Web apps Containerization                        |
 
 **Disclaimer: Please do not amend anyone else’s details. Your every single step is recorded in “commits”.**
 
