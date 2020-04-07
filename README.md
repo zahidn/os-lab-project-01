@@ -8,7 +8,7 @@ Hey there, this is your Details.md file. Send me Pull request, add your project 
 | 01     |              Sajeel, Shaheer, & Souban               | [NodeJS App via Docker](https://github.com/pyBae-py/oslab-project.git) |
 | 02     |     Abdullah Malik, Saad Iqbal & Huzaifa Arshad      |                     Install a package from source                      |
 | 03     |        Hammad Ali, Usama Khalid & Zahid Ullah        | [CI/CD with gitlab](https://github.com/usamakhalidxo0/ci-cd)           | 
-| 04     |      Duaa e Fatima , Sahar Khan, & Asfa Abbasi       |                            Not entered yet                             |
+| 04     |      Duaa e Fatima , Sahar Khan, & Asfa Abbasi       |                            Monitoring network                         |
 | 05     |                    Mahnoor,Abiha                     |                      Running apps with virtualenv                      |
 | 06     |          Anas, Abdul Rauf and Hassan Toori           |                 load balancer/proxy server with Nginx                  |
 | 07     |        Obaid Awan, Iqrar Ijaz and Umair Tahir        |                     install a package from source                      |
